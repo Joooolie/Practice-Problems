@@ -23,4 +23,4 @@ Another leetcode problem! The instructions are:
 Note that an empty string is also considered valid." 
 Further information can be found here: https://leetcode.com/problems/valid-parentheses/
 
-My submission passed 76 out of 76 test cases, had a runtime of 0 ms and used 5.3 MB of memory. The runtime beat 100% of submissions. 
+My submission passed 76 out of 76 test cases, had a runtime of 0 ms and used 5.3 MB of memory. The runtime beat 100% of submissions and used less memroy than 100.00% of submissions. 
