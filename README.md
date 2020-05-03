@@ -5,8 +5,6 @@ Here are codes from various problems I've recently worked on. Some have been pro
 # calculatechange.c 
 This program (written in C) asks you for an amount of money in cents, and returns how that change would be returned in coins.
 
-# grapher.c
-
 # maxprofit.c
 This one is a leetcode problem called "Best Time to Buy and Sell Stock II. The instructions are as follows: "Say you have an array prices for which the ith element is the price of a given stock on day i. Design an algorithm to find the maximum profit. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times). Note: You may not engage in multiple transactions at the same time (i.e., you must sell the stock before you buy again)." Further information can be found here: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 
