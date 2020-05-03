@@ -20,6 +20,7 @@ Given a string containing just the characters '(', ')', '{', '}', '[' and ']', d
 An input string is valid if:
 - Open brackets must be closed by the same type of brackets.
 - Open brackets must be closed in the correct order.
+
 Note that an empty string is also considered valid." 
 Further information can be found here: https://leetcode.com/problems/valid-parentheses/
 My submission passed 76 out of 76 test cases, had a runtime of 0 ms and used 5.3 MB of memory. The runtime beat 100% of submissions. 
